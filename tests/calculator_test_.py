@@ -1,6 +1,6 @@
 """Import the calculator class"""
 import pytest
-from calc.calculator import Calculator
+from calc.calculator_ import Calculator
 
 
 @pytest.fixture
