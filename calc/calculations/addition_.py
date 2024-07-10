@@ -1,6 +1,6 @@
 """ This is the addition calculation """
 # It inherits the value A and value B from the calculation class """
-from calc.calculations.calculation import Calculation
+from calc.calculations.calculation_ import Calculation
 
 
 # This is how you extend the Addition class with Calculation

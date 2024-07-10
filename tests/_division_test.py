@@ -1,7 +1,7 @@
 """Testing Addition"""
 
 from tests import read_csv
-from tests import log_reporting_ as log
+from tests import _log_reporting as log
 from calc.calculations.division_ import Division
 
 
