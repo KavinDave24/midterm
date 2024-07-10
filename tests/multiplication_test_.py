@@ -1,8 +1,8 @@
 """Testing Addition"""
 
 from tests import read_csv
-from tests import log_reporting as log
-from calc.calculations.multiplication import Multiplication
+from tests import log_reporting_ as log
+from calc.calculations.multiplication_ import Multiplication
 
 
 def test_multiplication_two_values():
