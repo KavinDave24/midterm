@@ -2,7 +2,7 @@
 
 from tests import read_csv
 from tests import log_reporting as log
-from calc.calculations.division import Division
+from calc.calculations.division_ import Division
 
 
 def test_division_two_values():
