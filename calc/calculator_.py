@@ -1,8 +1,8 @@
 """ content of calculator.py """
-from calc.calculations.subtraction import Subtraction
-from calc.calculations.addition import Addition
-from calc.calculations.multiplication import Multiplication
-from calc.calculations.division import Division
+from calc.calculations.subtraction_ import Subtraction
+from calc.calculations.addition_ import Addition
+from calc.calculations.multiplication_ import Multiplication
+from calc.calculations.division_ import Division
 
 
 class Calculator:
