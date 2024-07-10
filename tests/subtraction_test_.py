@@ -1,8 +1,8 @@
 """Testing Subtraction"""
 
 from tests import read_csv
-from tests import log_reporting as log
-from calc.calculations.subtraction import Subtraction
+from tests import log_reporting_ as log
+from calc.calculations.subtraction_ import Subtraction
 
 
 def test_subtraction_two_values():
