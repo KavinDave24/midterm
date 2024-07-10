@@ -2,7 +2,7 @@
 
 from tests import read_csv
 from tests import log_reporting as log
-from calc.calculations.addition import Addition
+from calc.calculations.addition_ import Addition
 
 
 def test_addition_two_values():
